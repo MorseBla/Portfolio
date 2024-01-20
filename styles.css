@@ -2,8 +2,8 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
+    background-image: linear-gradient(white, #bfbfbf);
     background-color: #f8f8f8;
-    background-image: linear-gradient(white, #bfbfbf)
 }
 
 .container {
@@ -50,14 +50,14 @@ h3 {
 
 /* Add this style for the profile image */
 .profile-image {
-    max-width: 25%;
+    max-width: 10%;
     border-radius: 5%;
     margin-bottom: 10px;
     margin-right: 100px;
 }
 
 .project-image {
-    max-width: 25%;
+    max-width: 10%;
     border-radius: 5%;
     margin-bottom: 10px;
     margin-right: 100px;
