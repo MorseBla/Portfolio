@@ -66,6 +66,30 @@ h3 {
     border-radius: 5%;
 }
 
+.project-image-but-bigger {
+    max-width: 40%;
+    height: auto;
+    border-radius: 5%;
+}
+
+.project-image-but-bigger-and-bigger {
+    max-width: 55%;
+    height: auto;
+    border-radius: 5%;
+}
+
+.two-images-centered {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.two-images-centered img {
+    max-width: 30%;
+    height: auto;
+    margin: 0 5%; /* Adjust margin between images as needed */
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     header {
